@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "del8wU4xGfb5d+Tz05cRFgc4L14U7p3Rh5omXkp1IF0kovmUV+J9e/6tXgRFgPCtf+8FBE2vqH644RoPUQ8E0A==",
+  "dgSpecHash": "QgZ2ODhrIgUiSOMXcmI5b55HgAwYrUfENcb9dIkuiBvzGqD3GIkr7v0GW+1333/ZfynL52EVJ8mpMYyMM9q5UQ==",
   "success": true,
-  "projectFilePath": "D:\\Pessoal\\Cursos\\asp.net_core\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+  "projectFilePath": "D:\\Pessoal\\Cursos\\asp.net_core\\GitHub\\ASPNetCireMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Charles Costa\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
     "C:\\Users\\Charles Costa\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",

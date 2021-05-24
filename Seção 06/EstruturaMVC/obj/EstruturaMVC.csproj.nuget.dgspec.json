@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pessoal\\Cursos\\asp.net_core\\GitHub\\ASPNetCireMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj": {}
+    "D:\\Pessoal\\Cursos\\asp.net_core\\EstruturaMVC\\EstruturaMVC.csproj": {}
   },
   "projects": {
-    "D:\\Pessoal\\Cursos\\asp.net_core\\GitHub\\ASPNetCireMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj": {
+    "D:\\Pessoal\\Cursos\\asp.net_core\\EstruturaMVC\\EstruturaMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pessoal\\Cursos\\asp.net_core\\GitHub\\ASPNetCireMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
-        "projectName": "ProjetoZero",
-        "projectPath": "D:\\Pessoal\\Cursos\\asp.net_core\\GitHub\\ASPNetCireMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+        "projectUniqueName": "D:\\Pessoal\\Cursos\\asp.net_core\\EstruturaMVC\\EstruturaMVC.csproj",
+        "projectName": "EstruturaMVC",
+        "projectPath": "D:\\Pessoal\\Cursos\\asp.net_core\\EstruturaMVC\\EstruturaMVC.csproj",
         "packagesPath": "C:\\Users\\Charles Costa\\.nuget\\packages\\",
-        "outputPath": "D:\\Pessoal\\Cursos\\asp.net_core\\GitHub\\ASPNetCireMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\obj\\",
+        "outputPath": "D:\\Pessoal\\Cursos\\asp.net_core\\EstruturaMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -49,23 +49,23 @@
           "dependencies": {
             "Microsoft.AspNetCore": {
               "target": "Package",
-              "version": "[2.1.7, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.AspNetCore.CookiePolicy": {
               "target": "Package",
-              "version": "[2.1.14, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.AspNetCore.HttpsPolicy": {
               "target": "Package",
-              "version": "[2.1.1, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.AspNetCore.Mvc": {
               "target": "Package",
-              "version": "[2.1.3, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.AspNetCore.StaticFiles": {
               "target": "Package",
-              "version": "[2.1.1, )"
+              "version": "[2.2.0, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
